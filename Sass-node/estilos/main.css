@@ -1,5 +1,5 @@
 .tituloMargenes {
-  color: rgba(247, 244, 244, 0.795);
+  color: rgba(241, 8, 8, 0.795);
   text-align: center;
   text-shadow: 10px -10px 3px rgba(0, 219, 248, 0.527);
   line-height: 2em;
@@ -8,7 +8,7 @@
 
 .division {
   display: grid;
-  grid-template-columns: 1fr 2fr;
+  grid-template-rows: 1fr 2fr;
   grid-column-gap: 30px; }
   .division__margen {
     margin-left: 20px; }
@@ -18,9 +18,9 @@
     color: #2600ff;
     font-weight: bold;
     font-size: 30px; }
-
+    
 header {
-  background-color: #00478fe7;
+  background-color: #89B5AF;
   width: 100%;
   height: 100px;
   padding: 10px; }
@@ -30,7 +30,7 @@ header {
   grid-template-columns: 1fr 2fr;
   margin-top: 50px;
   padding-top: 20px;
-  background-image: linear-gradient(to right, #be9f12, #db9615); }
+  background-image: linear-gradient(to right, #D0CAB2, #DED9C4); }
   .footer__cursiva {
     font-weight: bold;
     margin-left: 20px; }

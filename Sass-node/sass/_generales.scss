@@ -23,6 +23,9 @@ $cool-blue: #00478fe7;
         font-weight: bold;
         font-size: 30px;
     }
+    &__center{
+        align-items: center;
+    }
 }
 
 @mixin header /*mixin para el titulo*/{
